@@ -5,49 +5,39 @@
 <a href="https://www.youtube.com/UsamaSarwar?sub_confirmation=1"><img alt="Subscribers" src="https://img.shields.io/youtube/views/vMg8yD2NB7c?label=Subscribers&style=social"></a>
 
 ### Hello World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">
-<img align="right" alt="Developer Usama Sarwar" src="code.gif" width="500" height="320" />
+<img align="right" alt="Developer Syed" src="code.gif" width="500" height="320" />
 
-- 😄 Pronouns me as `/ue-saw-ma/`
-- 💻 Full-stack [Flutter](https://flutter.dev) Developer
-- ⚡ Empowering eCommerce Businesses
-- 🏛 Founder & CEO at [Alpharanker](https://alpharanker.com)
-- 🎓 CS Graduate of [COMSATS University Islamabad](https://www.comsats.edu.pk/)
-- 📱 +923-1-0000-777-3
+- 💻 Data Scientist [Flutter](https://flutter.dev) Developer
+- 💻 Full Stack [Android](https://developer.android.com/) Developer
+- 🎓 Doing MS SE from [COMSATS University Islamabad](https://www.comsats.edu.pk/)
+- 🎓 SE Graduate of [COMSATS University Islamabad](https://www.comsats.edu.pk/)
+- 📱 +923044208796
 ---
-- 🌱 Learning **Data Science**
-- 🔭 Exploring `ML` in `AI`
-- 💡 Community Projects [![Donate Now](https://img.shields.io/badge/Buy_me_a-Coffee-FFDD00?logo=buy-me-a-coffee&logoColor=white)](https://wa.me/923100007773?text=Thank%20you%20for%20supporting%20me%20%E2%9D%A4%0ABank%20Account%20Details%0ATitle%3A%20USAMA%20SARWAR%0AIBAN%3A%20PK90HABB0022417901576303)
-  - [Flutterism](https://flutterism.dev) `Flutter Dev Community`
-  - [Assignmento](https://assignmento.org) `Freelancing Platform`
-  - [Comsian Network](https://comsian.net) `COMSATS Alumni Network`
+- 🌱 Major Interest in **Data Science**
+- 🔭 Exploring `ML` & `AI`
+- 💡  Coding Expertise in `Python`, `R`, `JAVA` and `C#` languages
+- 💡  Databse proficiency in `MySQL` & `SQL Server`
+- 💻 Basic understanding of `HTML`, `CSS`, `Bootstrap`, `PHP` and `JS`
+
 
 <p align="center"> Let's Connect 🔥</p>
-<a href="https://usama.dev">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=opsgenie&logoColor=ffffff"></a> 
-<a href="https://github.com/usamasarwar/">
-<img src="https://img.shields.io/badge/Github-211F1F?style=for-the-badge&logo=GitHub&logoColor=ffffff"></a> 
-<a href="https://www.youtube.com/UsamaSarwar?sub_confirmation=1">
-<img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=Youtube&logoColor=ffffff"></a>
-<a href="https://www.linkedin.com/in/UsamaSarwarOfficial/">
+<a href="https://github.com/Syed-Shaheryar-Tirmizi">
+<img src="https://img.shields.io/badge/Github-211F1F?style=for-the-badge&logo=GitHub&logoColor=ffffff">
+</a> 
+<a href="https://www.linkedin.com/in/syed-shaheryar-tirmizi-7818a9194/">
 <img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=ffffff"></a>
-<a href="https://www.facebook.com/UsamaSarwarOfficial/">
+<a href="https://www.facebook.com/I.am.Shah17/">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=ffffff"></a>
-<a href="https://www.twitter.com/UsamaSarwarPro/">
+<a href="https://twitter.com/SyedShaheryar_">
 <img src="https://img.shields.io/badge/Twitter-08A0E9?style=for-the-badge&logo=Twitter&logoColor=ffffff"></a>
-<a href="https://www.instagram.com/UsamaSarwarOfficial/">
+<a href="https://www.instagram.com/syed_zaada_17/">
 <img src="https://img.shields.io/badge/Instagram-DD2A7B?style=for-the-badge&logo=Instagram&logoColor=ffffff"></a>
-<a href="https://www.google.com/search?q=usama+sarwar&oq=usama+sarwar&aqs=chrome..69i57j69i60l3j69i59j0i22i30l2.2577j0j1&sourceid=chrome&ie=UTF-8#lrd=0x39226921efdfec55:0xb750ccab89177cc9,1,,,">
-<img src="https://img.shields.io/badge/Reviews-211F1F?style=for-the-badge&logo=google&logoColor=ffffff"></a>
-<a href="https://ask.fm/usamasarwarofficial">
-<img src="https://img.shields.io/badge/ASK.fm-DB3552?style=for-the-badge&logo=askfm&logoColor=ffffff"></a>
-<a href="mailto:UsamaSarwarOfficial@gmail.com">
+<a href="mailto:syedshaheryar1@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D44638?style=for-the-badge&logo=gmail&logoColor=ffffff"></a>
-<a href="https://m.me/UsamaSarwarOfficial/">
+<a href="https://m.me/I.am.Shah17/">
 <img src="https://img.shields.io/badge/Chat-1877F2?style=for-the-badge&logo=Messenger&logoColor=ffffff"></a>
-<a href="https://wa.me/923100007773?text=%23Github">
+<a href="https://wa.me/923044208796?text=%23Github">
 <img src="https://img.shields.io/badge/Chat-25D366?style=for-the-badge&logo=WhatsApp&logoColor=ffffff"></a>
-<a href="https://wa.me/923100007773?text=Thank%20you%20for%20supporting%20me%20%E2%9D%A4%0ABank%20Account%20Details%0ATitle%3A%20USAMA%20SARWAR%0AIBAN%3A%20PK90HABB0022417901576303">
-<img src="https://img.shields.io/badge/Support-Developer-784fff?style=for-the-badge&logo=buy-me-a-coffee&logoColor=ffffff"></a>
 </div>
 
 ## Current Project ⚕
