@@ -54,7 +54,7 @@
 >**COVID-19 Sentimental Analysis**<br>Sentimental analysis of tweets to analyze and visualize the people's view about COVID-19
 
 >`Python` `Data Science` `Tweets`
-<br>[![Source Code](https://img.shields.io/badge/Web-App-FF3D00?logo=google-chrome&logoColor=ffffff)](https://cdn-icons-png.flaticon.com/512/868/868786.png)](https://assignmento.org)
+<br>[![Source Code](https://cdn-icons-png.flaticon.com/512/868/868786.png)](https://assignmento.org)
 
 >**Exercise Category Prediction**<br>Analyzing the different exercise parameters and predciing the category of exercise.
 
