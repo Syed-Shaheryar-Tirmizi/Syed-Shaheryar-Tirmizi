@@ -1,10 +1,12 @@
 ### Hello World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">
 <img align="right" alt="Developer Syed" src="code.gif" width="500" height="320" />
 
-- 💻 Data Scientist [Flutter](https://flutter.dev) Developer
+- 💻 Data Scientist 
 - 💻 Full Stack [Android](https://developer.android.com/) Developer
 - 🎓 Doing MS SE from [COMSATS University Islamabad](https://www.comsats.edu.pk/)
 - 🎓 SE Graduate of [COMSATS University Islamabad](https://www.comsats.edu.pk/)
+- 🎓 Campus Silver Medalist
+- 🎓 Institute Silver Medalist
 - 📱 +923044208796
 ---
 - 🌱 Major Interest in **Data Science**
@@ -12,7 +14,6 @@
 - 💡  Coding Expertise in `Python`, `R`, `JAVA` and `C#` languages
 - 💡  Databse proficiency in `MySQL` & `SQL Server`
 - 💻 Basic understanding of `HTML`, `CSS`, `Bootstrap`, `PHP` and `JS`
-
 
 <p align="center"> Let's Connect 🔥</p>
 <a href="https://github.com/Syed-Shaheryar-Tirmizi">
@@ -34,14 +35,14 @@
 <img src="https://img.shields.io/badge/Chat-25D366?style=for-the-badge&logo=WhatsApp&logoColor=ffffff"></a>
 </div>
 
-## Current Project ⚕
+## Final Year Project ⚕
 
->### AlShaafi | Corona Virus (COVID19) Detection App
+>### Crime Insights | Crime Analysis Android App
 ><img align="right" alt="Programming" src="coding.png" height="250" />
-> Diseases never come with prior intimation. In real-world scenarios reporting such diseases is a real challenge. This challenge is completed by "Al-Shaafi"; an idea to automate the process of disease prediction and effective treatment. Through this app, you would be able to get one more way to properly medical checkups without visiting hospitals. We have developed an expert system named “Al-Shaafi” that provides medical facilities to the patients in the minimum possible time. This system may diagnose the patient. This diagnosis will inform the patients about their disease they are suffering from. This expert system also facilitates the patients in the treatment for the respective illness they are suffering with. In this system, a team of dedicated and expert doctors would be available if a patient needs medical consultancy. Emergency services like Ambulance and Rescue are available 24/7. This expert system also facilitates women in obstetrical and gynecological treatment. It has been observed that when the patient visits the doctor for the next time, the medical history of the patient is usually overlooked. Al-Shaafi provides the facility to record the patient's histories. This expert system virtually connects a patient to the doctor for medical consultancy.
+> Crime rates are heavily increasing day by day around the globe. We have observed that the public usually doesn’t know about crime locations and crime rates. They do not have an exact location as a crime hotspot. Moreover, They don’t have any app that can warn them when entering in the hotspot area. Crime Insights is a crime-related project that alerts the user when a user enters in a hotspot area. The hotspot areas are visualized on the maps so that users can be aware of them. The user can also navigate him/herself on the map. The system will also show the correlation of crime with time. The system will display different graphs that show the better understanding of crime. Moreover, a user can send its location in case of any problem. The system will be updated by the system admin as soon as the relevant data is made available for proper analyses and modeling.
 
->`Corona Virus` `COVID19` `Artificial Intelligence` `Machine Learning` `Flutter`
-<br>[![Android App](https://img.shields.io/badge/Android-App-00C853?logo=android&logoColor=ffffff)](https://github.com/UsamaSarwar/App-Store/releases/download/App-Store/alshaafi.apk) [![Website](https://img.shields.io/badge/Web-App-211F1F?logo=google-chrome&logoColor=ffffff)](https://alshaafi.web.app)
+>`Crime` `Data Science`, `Android`, `JAVA`, `R`
+<br>[![Android App](https://img.shields.io/badge/Android-App-00C853?logo=android&logoColor=ffffff)](https://github.com/UsamaSarwar/App-Store/releases/download/App-Store/alshaafi.apk)
 
 ## Recent Projects ⚡
 
@@ -91,15 +92,3 @@
 </div>
 <br>
 
-## GitHub Statistics 📈
-
-<div align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=UsamaSarwar&theme=dark&hide_title=true&include_all_commits=true"/>
-</div><br>
-<div align="center">  
-<img alt="GitHub Streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=UsamaSarwar"> <br><br> 
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=UsamaSarwar&margin-w=15&margin-h=15" />
-<!-- [![Usama Sarwar Achievements](https://github-profile-trophy.vercel.app/?username=UsamaSarwar&margin-w=15&margin-h=15)](https://github-profile-trophy.vercel.app/?username=UsamaSarwar&margin-w=15&margin-h=15) -->
-</div>
-<br><br>
-<p align="center">Open Source Contributor from <b>Punjab, Pakistan</b> 🇵🇰 </p>
