@@ -49,23 +49,23 @@
 >**News App**<br>Android App that shows live streaming of News and shows latest news.
 
 >`Live TV` `News` `Android` `JAVA`
-<br> [![Android](https://img.shields.io/badge/Google_Play-00C853?logo=google-play&logoColor=ffffff)](https://play.google.com/store/apps/details?id=dev.usama.hotspot)
+<br> [![Android]([https://img.shields.io/badge/Google_Play-00C853?logo=google-play&logoColor=ffffff)](https://img.shields.io/badge/Android-App-00C853?logo=android&logoColor=ffffff))](https://play.google.com/store/apps/details?id=dev.usama.hotspot)
 
 >**COVID-19 Sentimental Analysis**<br>Sentimental analysis of tweets to analyze and visualize the people's view about COVID-19
 
 >`Python` `Data Science` `Tweets`
-<br>[![Source Code](https://cdn-icons-png.flaticon.com/512/868/868786.png)](https://assignmento.org)
+<br>[Source Code](https://assignmento.org)
 
 >**Exercise Category Prediction**<br>Analyzing the different exercise parameters and predciing the category of exercise.
 
 >`Machine Learning` `Classification` `R`
-<br>[![Source Code](https://img.shields.io/badge/Web-App-FF3D00?logo=google-chrome&logoColor=ffffff)](https://comsian.net)
+<br>[Source Code](https://comsian.net)
 
 
 >**USA NOAA Database Analysis**<br>Database analysis to get insights about the effects of disastrous consitions on crops and buildings.
 
 >`Data Science` `R`
-<br>[![Source Code](https://img.shields.io/badge/Web-App-FF3D00?logo=google-chrome&logoColor=ffffff)](https://usamasarwar.github.io/minimax-simulator/index.html)
+<br>[Source Code](https://usamasarwar.github.io/minimax-simulator/index.html)
 
 ### Open-Source Projects 
 
