@@ -49,7 +49,7 @@
 >**News App**<br>Android App that shows live streaming of News and shows latest news.
 
 >`Live TV` `News` `Android` `JAVA`
-<br> [![Android]([https://img.shields.io/badge/Google_Play-00C853?logo=google-play&logoColor=ffffff)](https://img.shields.io/badge/Android-App-00C853?logo=android&logoColor=ffffff))](https://play.google.com/store/apps/details?id=dev.usama.hotspot)
+<br> [![Android](https://img.shields.io/badge/Android-App-00C853?logo=android&logoColor=ffffff)](https://play.google.com/store/apps/details?id=dev.usama.hotspot)
 
 >**COVID-19 Sentimental Analysis**<br>Sentimental analysis of tweets to analyze and visualize the people's view about COVID-19
 
@@ -66,33 +66,30 @@
 
 >`Data Science` `R`
 <br>[Source Code](https://usamasarwar.github.io/minimax-simulator/index.html)
+ 
 
-### Open-Source Projects 
+## Certifications 💻
 
+>**Data Scientist with Python Track by DATACAMP**
+<br>[View Certificate](https://github.com/jonataslaw/getx/graphs/contributors)
 
-## Global Contributions 💻
-
->**GetX Contributor**<br>Flutter's State Management Package<br>[![GetX Contributor](https://img.shields.io/badge/GetX-Contributor-D500F9?logo=hack-the-box&logoColor=ffffff)](https://github.com/jonataslaw/getx/graphs/contributors)
-
->**Agora Contributor**<br>Flutter's Video Calling Package<br>[![Agora Contributor](https://img.shields.io/badge/Agora-Contributor-D500F9?logo=hack-the-box&logoColor=ffffff)](https://github.com/AgoraIO-Community/Agora-Flutter-Quickstart/graphs/contributors)
-
->**CSV Contributor**<br>Flutter's CSV Utility Package<br>[![CSV Contributor](https://img.shields.io/badge/CSV-Contributor-D500F9?logo=hack-the-box&logoColor=ffffff)](https://github.com/close2/csv/graphs/contributors)
+>**Data Scientist with Python Track by DATACAMP**
+<br>[View Certificate](https://github.com/jonataslaw/getx/graphs/contributors)
 
 ## Tools & Technology 🛠
 <div align="center">
 <!-- <p align="center"></p> -->
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 <img src="https://img.shields.io/badge/C_Sharp-239120?style=for-the-badge&logo=csharp&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Adobe_Photoshop-00aeff?style=for-the-badge&logo=Adobe%20photoshop&logoColor=white"/>
-<img src="https://img.shields.io/badge/Adobe_Illustrator-ff9900?style=for-the-badge&logo=Adobe-illustrator&logoColor=white" />
-<img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white" />
+
 <br><br>
 <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=UsamaSarwar&theme=dark&layout=compact&langs_count=20&hide_title=true"/>
 </div>
