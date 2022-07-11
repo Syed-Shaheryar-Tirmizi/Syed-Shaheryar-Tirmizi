@@ -5,8 +5,8 @@
 - 💻 Full Stack [Android](https://developer.android.com/) Developer
 - 🎓 Doing MS SE from [COMSATS University Islamabad](https://www.comsats.edu.pk/)
 - 🎓 SE Graduate of [COMSATS University Islamabad](https://www.comsats.edu.pk/)
-- 🎓 Campus Silver Medalist
-- 🎓 Institute Silver Medalist
+- ✨ Campus Silver Medalist
+- ✨ Institute Silver Medalist
 - 📱 +923044208796
 ---
 - 🌱 Major Interest in **Data Science**
@@ -41,28 +41,29 @@
 ><img align="right" alt="Programming" src="coding.png" height="250" />
 > Crime rates are heavily increasing day by day around the globe. We have observed that the public usually doesn’t know about crime locations and crime rates. They do not have an exact location as a crime hotspot. Moreover, They don’t have any app that can warn them when entering in the hotspot area. Crime Insights is a crime-related project that alerts the user when a user enters in a hotspot area. The hotspot areas are visualized on the maps so that users can be aware of them. The user can also navigate him/herself on the map. The system will also show the correlation of crime with time. The system will display different graphs that show the better understanding of crime. Moreover, a user can send its location in case of any problem. The system will be updated by the system admin as soon as the relevant data is made available for proper analyses and modeling.
 
->`Crime` `Data Science`, `Android`, `JAVA`, `R`
+>`Crime` `Data Science` `Android` `JAVA` `R` `Firebase`
 <br>[![Android App](https://img.shields.io/badge/Android-App-00C853?logo=android&logoColor=ffffff)](https://github.com/UsamaSarwar/App-Store/releases/download/App-Store/alshaafi.apk)
 
 ## Recent Projects ⚡
 
->**Hotspot+**<br>Android App containing live streams of 250+ countries<br>[![Website](https://img.shields.io/badge/Web-App-FF3D00?logo=google-chrome&logoColor=ffffff)](https://www.usama.dev/hotspot) [![Android](https://img.shields.io/badge/Google_Play-00C853?logo=google-play&logoColor=ffffff)](https://play.google.com/store/apps/details?id=dev.usama.hotspot) [![Made with Flutter](https://img.shields.io/badge/Made_with-Flutter-0175C2?logo=flutter&logoColor=ffffff)](https://flutter.dev)
+>**News App**<br>Android App that shows live streaming of News and shows latest news.
+>`Live TV` `News` `Android` `JAVA`
+<br> [![Android](https://img.shields.io/badge/Google_Play-00C853?logo=google-play&logoColor=ffffff)](https://play.google.com/store/apps/details?id=dev.usama.hotspot)
 
->**Assignmento**<br>Freelancing Platform empowering over 1M Freelancers and Businesses<br>[![Website](https://img.shields.io/badge/Web-App-FF3D00?logo=google-chrome&logoColor=ffffff)](https://assignmento.org) [![Android](https://img.shields.io/badge/Google_Play-00C853?logo=google-play&logoColor=ffffff)](https://play.google.com/store/apps/details?id=dev.usama.assignmento) [![Made with PHP](https://img.shields.io/badge/Made_with-PHP-f0db4f?logo=PHP&logoColor=ffffff)]([PHP](https://www.php.net/))
+>**COVID-19 Sentimental Analysis**<br>Sentimental analysis of tweets to analyze and visualize the people's view about COVID-19
+>`Python` `Data Science` `Tweets`
+<br>[![Source Code](https://img.shields.io/badge/Web-App-FF3D00?logo=google-chrome&logoColor=ffffff)](https://assignmento.org)
 
->**Comsian Network**<br>COMSATS Alumni Network for the students of COMSATS University Islamabad<br>[![Website](https://img.shields.io/badge/Web-App-FF3D00?logo=google-chrome&logoColor=ffffff)](https://comsian.net) [![Android](https://img.shields.io/badge/Google_Play-00C853?logo=google-play&logoColor=ffffff)]([https://play.google.com/store/apps/details?id=dev.usama.assignmento](https://comsian.net)) [![Made with PHP](https://img.shields.io/badge/Made_with-PHP-f0db4f?logo=PHP&logoColor=ffffff)]([PHP](https://www.php.net/))
+>**Exercise Category Prediction**<br>Analyzing the different exercise parameters and predciing the category of exercise.
+<br>[![Source Code](https://img.shields.io/badge/Web-App-FF3D00?logo=google-chrome&logoColor=ffffff)](https://comsian.net)
+>`Machine Learning` `Classification` `R`
 
->**MiniMax and Alpha-BetaPruning Simulator**<br>This tool builds with a search algorithm that seeks to decrease the number of nodes that are evaluated by the minimax algorithm in its search tree.<br>[![Website](https://img.shields.io/badge/Web-App-FF3D00?logo=google-chrome&logoColor=ffffff)](https://usamasarwar.github.io/minimax-simulator/index.html) [![Made with Flutter](https://img.shields.io/badge/Made_with-PHP-0175C2?logo=php&logoColor=ffffff)](https://www.php.net/)
+>**USA NOAA Database Analysis**<br>Database analysis to get insights about the effects of disastrous consitions on crops and buildings.
+>>`Data Science` `R`
+<br>[![Source Code](https://img.shields.io/badge/Web-App-FF3D00?logo=google-chrome&logoColor=ffffff)](https://usamasarwar.github.io/minimax-simulator/index.html)
 
-### Open-Source Projects ✨
+### Open-Source Projects 
 
->**FlutterCapsule**<br>Cheatsheet for Flutter Developers<br>[![Website](https://img.shields.io/badge/Web-App-FF3D00?logo=google-chrome&logoColor=ffffff)](http://usamasarwar.github.io/fluttercapsule/) [![Source Code](https://img.shields.io/badge/Source-212121?logo=github&logoColor=ffffff)](https://github.com/UsamaSarwar/fluttercapsule) [![Made with Flutter](https://img.shields.io/badge/Made_for-FlutterDev-0175C2?logo=flutter&logoColor=ffffff)](https://flutter.dev)
-
->**Nina News App**<br>Iraqi National News Agency App<br>[![Website](https://img.shields.io/badge/Web-App-FF3D00?logo=google-chrome&logoColor=ffffff)](https://usamasarwar.github.io/flutter_news_app) [![Android](https://img.shields.io/badge/Android-00C853?logo=android&logoColor=ffffff)](https://github.com/UsamaSarwar/flutter_news_app/releases/tag/v1.0.0) [![Source Code](https://img.shields.io/badge/Source_Code-212121?logo=github&logoColor=ffffff)](https://github.com/UsamaSarwar/flutter_news_app) [![Made with Flutter](https://img.shields.io/badge/Made_with-Flutter-0175C2?logo=flutter&logoColor=ffffff)](https://flutter.dev)
-
->**Weather Forecast**<br>Website for live weather broadcasting and weather prediction<br>[![Website](https://img.shields.io/badge/Web-API-FF3D00?logo=google-chrome&logoColor=ffffff)](http://usamasarwar.github.io/weather-forecast/) [![Source Code](https://img.shields.io/badge/Source_Code-212121?logo=github&logoColor=ffffff)](https://github.com/UsamaSarwar/weather-forecast) [![Made with Flutter](https://img.shields.io/badge/Made_with-PHP-0175C2?logo=php&logoColor=ffffff)](https://flutter.dev)
-
->**Compiler Contruction Building Blocks Software**<br>Java Software that contains building blocks for the construction of a compiler<br>[![Desktop](https://img.shields.io/badge/Windows-Software-00C853?logo=hack-the-box&logoColor=ffffff)](https://github.com/UsamaSarwar/Compiler-Construction-Building-Blocks/releases) [![Source Code](https://img.shields.io/badge/Source_Code-212121?logo=github&logoColor=ffffff)](https://github.com/UsamaSarwar/Compiler-Construction-Building-Blocks) [![Made with Java](https://img.shields.io/badge/Made_with-JavaFX-007396?logo=java&logoColor=ffffff)](https://openjfx.io/)
 
 ## Global Contributions 💻
 
