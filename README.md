@@ -42,35 +42,35 @@
 > Crime rates are heavily increasing day by day around the globe. We have observed that the public usually doesn’t know about crime locations and crime rates. They do not have an exact location as a crime hotspot. Moreover, They don’t have any app that can warn them when entering in the hotspot area. Crime Insights is a crime-related project that alerts the user when a user enters in a hotspot area. The hotspot areas are visualized on the maps so that users can be aware of them. The user can also navigate him/herself on the map. The system will also show the correlation of crime with time. The system will display different graphs that show the better understanding of crime. Moreover, a user can send its location in case of any problem. The system will be updated by the system admin as soon as the relevant data is made available for proper analyses and modeling.
 
 >`Crime` `Data Science` `Android` `JAVA` `R` `Firebase`
-<br>[![Android App](https://img.shields.io/badge/Android-App-00C853?logo=android&logoColor=ffffff)](https://github.com/UsamaSarwar/App-Store/releases/download/App-Store/alshaafi.apk)
+<br>[![Android App](https://img.shields.io/badge/Android-App-00C853?logo=android&logoColor=ffffff)](https://github.com/Syed-Shaheryar-Tirmizi/FYP/)
 
 ## Recent Projects ⚡
 
 >**News App**<br>Android App that shows live streaming of News and shows latest news.
 
 >`Live TV` `News` `Android` `JAVA`
-<br> [![Android](https://img.shields.io/badge/Android-App-00C853?logo=android&logoColor=ffffff)](https://play.google.com/store/apps/details?id=dev.usama.hotspot)
+<br> [![Android](https://img.shields.io/badge/Android-App-00C853?logo=android&logoColor=ffffff)](https://github.com/Syed-Shaheryar-Tirmizi/Live-News-TV-App)
 
 >**COVID-19 Sentimental Analysis**<br>Sentimental analysis of tweets to analyze and visualize the people's view about COVID-19
 
->`Python` `Data Science` `Tweets`
-<br>[Source Code](https://assignmento.org)
+>`Python` `R` `Data Science` `Tweets`
+<br>[Source Code](https://github.com/Syed-Shaheryar-Tirmizi/Twitter-Sentimental-Analysis)
 
 >**Exercise Category Prediction**<br>Analyzing the different exercise parameters and predciing the category of exercise.
 
 >`Machine Learning` `Classification` `R`
-<br>[Source Code](https://comsian.net)
+<br>[Source Code](https://github.com/Syed-Shaheryar-Tirmizi/R-pojects/tree/main/Exercise%20Category%20Prediction)
 
 
 >**USA NOAA Database Analysis**<br>Database analysis to get insights about the effects of disastrous consitions on crops and buildings.
 
 >`Data Science` `R`
-<br>[Source Code](https://usamasarwar.github.io/minimax-simulator/index.html)
+<br>[Source Code](https://github.com/Syed-Shaheryar-Tirmizi/R-pojects/tree/main/NOAA%20Database%20Analysis)
 
 >**Books Buffet**<br>A study related website where students and teachers can upload books and notes and can download them.
 
 >`Website` `PHP` `MySQL` `HTML`, `CSS`
-<br>[![Web](https://img.shields.io/badge/Web-App-00C853?logo=android&logoColor=ffffff)](https://play.google.com/store/apps/details?id=dev.usama.hotspot)
+<br>[![Web](https://img.shields.io/badge/Web-App-00C853?logo=android&logoColor=ffffff)](https://github.com/Syed-Shaheryar-Tirmizi/Books-Buffet)
  
 
 ## Certifications 💻
