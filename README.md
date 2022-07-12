@@ -76,10 +76,10 @@
 ## Certifications 💻
 
 >**Data Scientist with Python Track by DATACAMP**
-<br>[View Certificate](https://github.com/jonataslaw/getx/graphs/contributors)
+<br>[View Certificate](https://github.com/jonataslaw/getx/graphs/contributors](https://github.com/Syed-Shaheryar-Tirmizi/Certificates)
 
 >**Data Scientist with Python Track by DATACAMP**
-<br>[View Certificate](https://github.com/jonataslaw/getx/graphs/contributors)
+<br>[View Certificate](https://github.com/Syed-Shaheryar-Tirmizi/Certificates)
 
 ## Tools & Technology 🛠
 <div align="center">
