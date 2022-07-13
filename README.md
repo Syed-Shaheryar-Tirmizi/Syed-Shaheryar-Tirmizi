@@ -76,10 +76,10 @@
 ## Certifications 💻
 
 >**Data Scientist with Python Track by DATACAMP**
-<br>[View Certificate](https://github.com/jonataslaw/getx/graphs/contributors](https://github.com/Syed-Shaheryar-Tirmizi/Certificates)
+<br>[View Certificate](https://www.datacamp.com/statement-of-accomplishment/track/b1c04d3d69113d0ee8300306bc97bb39a7c4cfae)
 
->**Data Scientist with Python Track by DATACAMP**
-<br>[View Certificate](https://github.com/Syed-Shaheryar-Tirmizi/Certificates)
+>**Data Science Specialization from COURSERA by John Hopkins University**
+<br>[View Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/KNZ88NELW6A8)
 
 ## Tools & Technology 🛠
 <div align="center">
