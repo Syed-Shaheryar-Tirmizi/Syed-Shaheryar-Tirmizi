@@ -1,5 +1,5 @@
 ### Hello World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">
-<img align="right" alt="Developer Syed" src="code.gif" width="500" height="320" />
+<img align="right" alt="Developer Syed" src="code.gif" width="450" height="320" />
 
 - 💻 Data Scientist 
 - 💻 Full Stack [Android](https://developer.android.com/) Developer
