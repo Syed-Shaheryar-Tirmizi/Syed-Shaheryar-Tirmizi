@@ -69,9 +69,19 @@
 
 >**Books Buffet**<br>A study related website where students and teachers can upload books and notes and can download them.
 
->`Website` `PHP` `MySQL` `HTML`, `CSS`
+>`Website` `PHP` `MySQL` `HTML` `CSS`
 <br>[![Web](https://img.shields.io/badge/Web-App-00C853?logo=android&logoColor=ffffff)](https://github.com/Syed-Shaheryar-Tirmizi/Books-Buffet)
  
+>**Some other R projects**<br>Different projects developed with R language.
+
+>`R` `Data Science`
+<br>[Source Codes](https://github.com/Syed-Shaheryar-Tirmizi/R-pojects/)
+
+>**Some other python projects**<br>Different projects developed with python.
+
+>`Python` `Data Science`
+<br>[Source Codes](https://github.com/Syed-Shaheryar-Tirmizi/Python-pojects/)
+
 
 ## Certifications 💻
 
@@ -102,7 +112,6 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
 <br><br>
-<img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syed-Shaheryar-Tirmizi&theme=dark&layout=compact&langs_count=20&hide_title=true"/>
 </div>
 <br>
 
